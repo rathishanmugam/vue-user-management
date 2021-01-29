@@ -14,6 +14,7 @@ export default {
 }
 </script>
 
+
 <style>
   @import 'vuetify/dist/vuetify.min.css';
   @import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons';
